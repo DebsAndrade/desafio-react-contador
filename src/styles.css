@@ -1,0 +1,25 @@
+div {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: blueviolet;
+  text-align: center;
+}
+
+h1,
+p {
+  font-size: 80px;
+}
+
+button {
+  width: 150px;
+  border-radius: 10px;
+  font-size: 100px;
+}
+
+.decrementButton {
+  background-color: red;
+}
+
+.incrementButton {
+  background-color: green;
+  margin-left: 50px;
+}
